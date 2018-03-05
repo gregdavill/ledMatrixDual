@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name ledMatrixController)(type Legacy)(uri ${KIPRJMOD}/ledMatrixController.lib)(options "")(descr ""))
+)

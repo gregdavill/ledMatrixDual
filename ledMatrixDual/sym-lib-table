@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name ledMatrixDual)(type Legacy)(uri C:/Users/gregd/Documents/git/ledMatrixDual/ledMatrixDual/ledMatrixDual.lib)(options "")(descr ""))
+  (lib (name cameraTrigDual)(type Legacy)(uri C:/Users/gregd/Documents/git/dinoMaster/cameraTrigDual.lib)(options "")(descr ""))
+)
